@@ -27,3 +27,8 @@ The first task in this assignment is a solution to the N queens problem using th
 ### Task 2
 
 For the second task similar to assignments 1 and 2 this assignment is based in the festival setting with the addition of stages where the performers play and guests travel to stages based on their affinity to the act that is playing. This is computed using a variable called utility.Guests communicate with the stages present through FIPA to know the individual attribute values. For the challenge we are required to develop an algorithm to calculate the utilities of all agents and find a way to increase the global utility as a whole by making some adjustments in their personal preferences.
+
+## Final Project
+
+The final project is for adding beliefs, desires and intentions to the agents present at the festival and for this the FIPA protocol has been used. 
+The Main purpose of this project is to simulate a festival with different types of guests wherein we get to observe their interactions and behaviour as a result of their traits and personality values. When different agents meet in such a manner what would be the expected outcome? That is one of the prime questions we are trying to answer . In addition to their traits even the location where the agents meet can influence how they behave in the situation.
